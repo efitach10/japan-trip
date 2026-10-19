@@ -34,3 +34,8 @@
 ## תיעוד
 
 [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) · [PWA installation](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable)
+
+
+## צילומי היעדים
+
+הנופים הוחלפו ב־26 צילומים אמיתיים מ־Wikimedia Commons. הצילומים מוטמעים בתוך האפליקציה לשימוש ללא אינטרנט. [קרדיטים, רישיונות וקישורי הורדה לצילומים](site/photo-credits.html). הרישיונות של כל צילום חלים על הצילום עצמו; התמונה הוקטנה ונדחסה והתצוגה בכרטיס נחתכת בהתאם למסך. עותקי הצילומים הציבוריים בתיקיית `site/photos/` אינם כוללים מידע אישי מהמסלול.
