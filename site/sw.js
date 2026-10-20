@@ -1,6 +1,6 @@
 // Cache scope is unique to this Pages repository, including on a shared github.io origin.
 const PREFIX='our-japan-pwa:'+new URL(self.registration.scope).pathname+':';
-const CACHE=PREFIX+'830ffc0ed26c';
+const CACHE=PREFIX+'6ded0baee1ee';
 const FILES=['./index.html','./manifest.webmanifest','./icon-couple-180.png','./icon-couple-192.png','./icon-couple-512.png','./icon-couple-maskable-512.png'];
 const absolute=f=>new URL(f,self.registration.scope).href;
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES.map(absolute))).then(()=>self.skipWaiting())));
